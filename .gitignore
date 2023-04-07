@@ -1,0 +1,4 @@
+*.o
+*.a
+antman/antman
+giantman/giantman
